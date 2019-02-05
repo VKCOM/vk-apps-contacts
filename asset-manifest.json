@@ -1,6 +1,6 @@
 {
-  "main.js": "/vk-apps-contacts/static/js/main.94da2329.chunk.js",
-  "main.js.map": "/vk-apps-contacts/static/js/main.94da2329.chunk.js.map",
+  "main.js": "/vk-apps-contacts/static/js/main.60ad2457.chunk.js",
+  "main.js.map": "/vk-apps-contacts/static/js/main.60ad2457.chunk.js.map",
   "static/css/1.c5760d2b.chunk.css": "/vk-apps-contacts/static/css/1.c5760d2b.chunk.css",
   "static/js/1.d3879bcc.chunk.js": "/vk-apps-contacts/static/js/1.d3879bcc.chunk.js",
   "static/js/1.d3879bcc.chunk.js.map": "/vk-apps-contacts/static/js/1.d3879bcc.chunk.js.map",
@@ -8,6 +8,6 @@
   "runtime~main.js.map": "/vk-apps-contacts/static/js/runtime~main.85edb774.js.map",
   "static/css/1.c5760d2b.chunk.css.map": "/vk-apps-contacts/static/css/1.c5760d2b.chunk.css.map",
   "index.html": "/vk-apps-contacts/index.html",
-  "precache-manifest.e426675a1104af5216dc50d36ce4c769.js": "/vk-apps-contacts/precache-manifest.e426675a1104af5216dc50d36ce4c769.js",
+  "precache-manifest.47110bb692af83512f32eb38244dd393.js": "/vk-apps-contacts/precache-manifest.47110bb692af83512f32eb38244dd393.js",
   "service-worker.js": "/vk-apps-contacts/service-worker.js"
 }
