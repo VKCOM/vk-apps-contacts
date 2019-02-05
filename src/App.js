@@ -53,6 +53,8 @@ class App extends React.Component {
 
     componentDidMount() {
         vkConnect.subscribe((e) => {
+            console.log(e.detail.type);
+
             switch (e.detail.type) {
                 case 'VKWebAppGetUserInfoResult':
                     let userInfo = e.detail.data;
@@ -96,7 +98,7 @@ class App extends React.Component {
                     });
                     break;
                 default:
-                    console.log(e.detail.type);
+                    // nop
             }
         });
         vkConnect.send('VKWebAppGetUserInfo', {});
